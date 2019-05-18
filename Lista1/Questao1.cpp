@@ -19,7 +19,7 @@ int main(){
         }
         else if (n == 0) {
             i = 0;
-            cout<<"Nao tem iguais \n";
+            cout<<"Nao tem iguais \n";//
         }
         
     }
